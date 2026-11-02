@@ -5,10 +5,13 @@
 Please add your SQL query below AND add explanation of the query: 
 
 ```
-[Insert Code Here]
-```
-```
-[Insert Explanation Here]
+---get  employee's first name,as well as number of 
+--orders placed, group by employee's first name
+
+select firstName, quantity,
+
+from orders o
+	join customer.id on o.OrderID
 ```
 
 4. For submission commit and push this .md file to Github
