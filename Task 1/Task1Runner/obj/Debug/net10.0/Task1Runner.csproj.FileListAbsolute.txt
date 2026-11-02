@@ -1,0 +1,15 @@
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\bin\Debug\net10.0\Task1Runner.exe
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\bin\Debug\net10.0\Task1Runner.deps.json
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\bin\Debug\net10.0\Task1Runner.runtimeconfig.json
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\bin\Debug\net10.0\Task1Runner.dll
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\bin\Debug\net10.0\Task1Runner.pdb
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.AssemblyInfoInputs.cache
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.AssemblyInfo.cs
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.csproj.CoreCompileInputs.cache
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.sourcelink.json
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.dll
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\refint\Task1Runner.dll
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.pdb
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\Task1Runner.genruntimeconfig.cache
+C:\Users\LucaMarin\Downloads\Tech-Assessment-C-CycleC-2026\Task 1\Task1Runner\obj\Debug\net10.0\ref\Task1Runner.dll
