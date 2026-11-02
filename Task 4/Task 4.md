@@ -18,6 +18,8 @@ Please add your SQL query below AND add an explanation:
 ```
 ```
 [Insert Explanation Here]
+
+supercalifragilisticexpialidocious
 ```
 
 4. For submission, commit and push.
